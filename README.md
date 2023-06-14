@@ -23,9 +23,12 @@
 - `single_prediction` : 透過model進行prediction
 
 ## Demo
+- 1.要先執行bot.py
+- 2.在cmd輸入`ngrok http 5000`，之後會產生一個public url
+- 3.將產生的public url丟去line developer中其中一個設定message API的webhook url，就可以開始用了
+
 ![image](https://github.com/doudou030/C_Chat_Chatbot/blob/main/img/demo1.jpg?raw=true)
 ![image](https://github.com/doudou030/C_Chat_Chatbot/blob/main/img/demo2.jpg?raw=true)
-
 
 ## Reference
 
